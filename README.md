@@ -8,9 +8,8 @@ This plugin implements barcode scanner on Cordova 4.0
 * iOS 7.0.0 or above
 
 ## Use Tips
-Just Use The Following Command Line word, Then You Can Call It.
 
-cordova plugin add [插件本地路径]
+cordova plugin add [dir]
 
 ## JS 
 ``` js
