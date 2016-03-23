@@ -7,7 +7,7 @@ This plugin implements barcode scanner on Cordova 4.0
 * Android 4.0.0 or above
 * iOS 7.0.0 or above
 
-![二维码图片][http://7xs68i.com1.z0.glb.clouddn.com/IMG_1772.PNG]
+![二维码图片](http://7xs68i.com1.z0.glb.clouddn.com/IMG_1772.PNG)
 
 ## Use Tips
 
