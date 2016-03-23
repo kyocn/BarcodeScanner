@@ -1,6 +1,6 @@
 # cordova-plugin-barcode 二维码扫描Cordova插件
 
-This plugin implements alipay payment on Cordova 4.0
+This plugin implements barcode scanner on Cordova 4.0
 
 ## Supported Cordova Platforms
 
